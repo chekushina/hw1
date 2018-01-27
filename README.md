@@ -6,8 +6,12 @@ Ich mag Gitarre und Klavier spielen, [mit Kindern Freizeit verbringen](http://ww
 + ## Stundenplan
 Time | Montag | Dienstag | Mittwoch | Donnerstag | Freitag
 --- | --- | --- | --- | --- | ---
-10:30 | Deutsch | | Russische Literatur | | Digitale Lesbarkeit
+10:30 | Deutsch | | Russische Literatur | | Computerkenntnisse
 12:10 | Philologie | | Akademisches Schreiben | Deutsch | Philologie
-13:40 | Semiotik Geschichte | Russische Literatur | Deutsch | | Digitale Lesbarkeit
+13:40 | Semiotik Geschichte | Russische Literatur | Deutsch | | Computerkenntnisse
 15:10 | Forschung Seminar | Englisch | Semiotik Geschichte | | Russische Literatur
 16:40 | | Russische Literatur | | | Englisch
+
+
+
+https://pp.userapi.com/c824409/v824409176/9d546/cakrkcwm8uI.jpg
